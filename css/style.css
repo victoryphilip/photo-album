@@ -23,7 +23,7 @@ body{
 }
 
 h3{
-    font-size: 30px;
+    font-size: 32px;
     color: tomato;
     text-transform: capitalize;
 }
@@ -39,7 +39,7 @@ h3{
     font-weight: 400;
     background-color: black;
     padding: 8px 22px;
-    color: white;
+    color: gold;
     border-radius: 5px;
 }
 .menu a.active{
