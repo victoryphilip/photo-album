@@ -1,0 +1,50 @@
+body{
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: brown;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+a{
+    background-color: brown;
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 12px;
+    border-radius: 5px;
+    display: block;
+    width: 70px;
+    margin: 10px;
+}
+a:hover{
+    background-color: transparent;
+    border: 2px solid brown;
+    color: black;
+}
+
+table{
+    border: 1px solid brown;
+}
+
+td{
+    border: 2px solid brown;
+}
+
+img{
+   margin: 0 500px 0 500px;
+
+}
+
+.text{
+    display: none;
+    font-size: 10px;
+}
+h1:hover .text{
+    display: block;
+}
